@@ -17,7 +17,7 @@ def getTechStack():
         tools.append(toolt.format(logo=tool['LogoUrl'],slug=tool['name']))
     if len(tools) == 0:
         return ""
-    return Header + "\n" + "\n".join(tools)
+    return Header + "\n" + " ".join(tools)
 
 def connection_links():
     collection = db['connectionurls'].find()
@@ -38,7 +38,7 @@ def get_current_status():
         Currents.append(dash)
     if len(Currents) == 0:
         return ""
-    return Header + "\n" + "\n".join(Currents)
+    return Header + "\n" + " ".join(Currents)
 
 
 if __name__ == "__main__":
