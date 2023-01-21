@@ -18,9 +18,10 @@ jobs:
       uses: actions/setup-python@master
       with:
           python-version: "3.9"
+          cache: 'pip'
     - name: Install dependencies
       run: |
-        pip3 install pymongo
+        pip install -r .github/scripts/requirements.txt
     - name: Build portfolio
       run: |
         python3 .github/scripts/buildportfolio.py
