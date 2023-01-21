@@ -38,7 +38,7 @@ def get_current_status():
         Currents.append(dash)
     if len(Currents) == 0:
         return ""
-    return Header + "\n" + " ".join(Currents)
+    return Header + "\n" + "\n".join(Currents)
 
 
 if __name__ == "__main__":
