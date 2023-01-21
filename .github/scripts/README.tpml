@@ -1,17 +1,15 @@
 f"""
-<h1 align="center">I'm Mahmoud Osama 👋</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mahmoud0x00&label=%F0%9F%91%80&color=007500" alt="👀" /> </p>
 <h2 align="center">A passionate AppSec Engineer 🥷 and Software Engineering Student (Senior) 👨🏻‍💻📚 @ BUE 🎓</h2>
 
 {get_current_status()}
 
-## Connection links 🔗
-<p align="center">
+### Connection links 🔗
+<p align="left">
     {connection_links()}
 </p>
 
 {getTechStack()}
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud0x00&label=%F0%9F%91%80&color=007500" alt="👀" /> </p>
 """
