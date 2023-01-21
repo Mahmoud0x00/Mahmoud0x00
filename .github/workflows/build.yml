@@ -1,0 +1,38 @@
+name: Build portfolio 🚧
+on:
+  repository_dispatch:
+    types: [build]
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      MONGO_URI: ${{ secrets.MONGO_URI }}
+    steps:
+    - name: Check out code
+      uses: actions/checkout@master
+      with:
+          persist-credentials: false
+          fetch-depth: 0
+    - name: Set up Python
+      uses: actions/setup-python@master
+      with:
+          python-version: "3.9"
+          cache: 'pip'
+    - name: Install dependencies
+      run: |
+        pip3 install pymongo
+    - name: Build portfolio
+      run: |
+        python3 .github/scripts/buildportfolio.py
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update portfolio"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.PAT }}
+        branch: master
