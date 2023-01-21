@@ -4,6 +4,7 @@ f"""
 
 {get_current_status()}
 
+## Connection links 🔗
 <p align="center">
     {connection_links()}
 </p>

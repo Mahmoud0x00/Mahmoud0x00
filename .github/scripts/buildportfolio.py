@@ -20,7 +20,6 @@ def getTechStack():
     return Header + "\n" + "\n".join(tools)
 
 def connection_links():
-    Header = "## Connection links 🔗"
     collection = db['connectionurls'].find()
     linkat = "<a href='{link}' target='blank'><img align='center' src='{Logo}' alt='{slug}' height='30' width='40' /></a>"
     links = []
@@ -28,7 +27,7 @@ def connection_links():
         links.append(linkat.format(link=link['Link'],Logo=link['Logo'],slug=link['Slug']))
     if len(links) == 0:
         return ""
-    return Header + "\n" + "\n".join(links)
+    return "\n".join(links)
 
 def get_current_status():
     Header = "## Currently Learning 📚"
