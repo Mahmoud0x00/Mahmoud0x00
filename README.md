@@ -8,6 +8,7 @@
 - Django
 - NextJS
 - GraphQL
+- Typescript
 
 ### Connection links 🔗
 <p align="left">
