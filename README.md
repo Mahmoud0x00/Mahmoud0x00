@@ -9,6 +9,7 @@
 - NextJS
 - GraphQL
 - Typescript
+- spaCy
 
 ### Connection links 🔗
 <p align="left">
