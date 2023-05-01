@@ -9,6 +9,8 @@
 - GraphQL
 - Typescript
 - spaCy
+- Jenkins
+- ArgoCD
 
 ### Connection links 🔗
 <p align="left">
