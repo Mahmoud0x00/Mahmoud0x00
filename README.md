@@ -1,16 +1,10 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mahmoud0x00&label=%F0%9F%91%80&color=007500" alt="👀" /> </p>
-<h2 align="center">A passionate AppSec Engineer 🥷 and Software Engineering Student (Senior) 👨🏻‍💻📚 @ BUE 🎓</h2>
+<h2 align="center">A passionate AppSec Engineer 🥷</h2>
 
 ### Currently Learning 📚
 - Helm
 - Django
-- NextJS
-- GraphQL
-- Typescript
-- spaCy
-- Jenkins
-- ArgoCD
 
 ### Connection links 🔗
 <p align="left">
@@ -20,4 +14,4 @@
 </p>
 
 ### Technologies and tools 🛠
-<img src='https://www.vectorlogo.zone/logos/docker/docker-tile.svg' alt='Docker' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' alt='ReactJs' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg' alt='NodeJS' width='40' height='40'/> <img src='https://nmap.org/images/nmap-project-logo.svg' alt='Nmap' width='40' height='40'/> <img src='https://i.postimg.cc/pVh3xT7j/burp-suite-removebg-preview.png' alt='BurpSuite' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt='Tailwind' width='40' height='40'/> <img src='https://avatars.githubusercontent.com/u/44036562?s=200&v=4' alt='GithubActions' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' alt='Git' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/php/php-icon.svg' alt='PHP' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg' alt='MongoDB' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg' alt='MySql' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/python/python-icon.svg' alt='Python' width='40' height='40'/> <img src='https://raw.githubusercontent.com/docker-library/docs/471fa6e4cb58062ccbf91afc111980f9c7004981/swarm/logo.png' alt='DockerSwarm' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg' alt='Kubernetes' width='40' height='40'/>
+<img src='https://www.vectorlogo.zone/logos/docker/docker-tile.svg' alt='Docker' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' alt='ReactJs' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg' alt='NodeJS' width='40' height='40'/> <img src='https://nmap.org/images/nmap-project-logo.svg' alt='Nmap' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt='Tailwind' width='40' height='40'/> <img src='https://avatars.githubusercontent.com/u/44036562?s=200&v=4' alt='GithubActions' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' alt='Git' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/php/php-icon.svg' alt='PHP' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg' alt='MongoDB' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg' alt='MySql' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/python/python-icon.svg' alt='Python' width='40' height='40'/> <img src='https://raw.githubusercontent.com/docker-library/docs/471fa6e4cb58062ccbf91afc111980f9c7004981/swarm/logo.png' alt='DockerSwarm' width='40' height='40'/> <img src='https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg' alt='Kubernetes' width='40' height='40'/>
